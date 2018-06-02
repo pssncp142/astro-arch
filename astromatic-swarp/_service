@@ -1,0 +1,8 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">http</param>
+    <param name="host">www.astromatic.net</param>
+    <param name="path">download/swarp/swarp-2.38.0.tar.gz</param>
+  </service>
+</services>
+

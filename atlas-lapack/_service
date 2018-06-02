@@ -1,0 +1,13 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">http</param>
+    <param name="host">www.netlib.org</param>
+    <param name="path">lapack/lapack-3.6.1.tgz</param>
+  </service>
+  <service name="download_url">
+    <param name="protocol">http</param>
+    <param name="host">downloads.sourceforge.net</param>
+    <param name="path">math-atlas/atlas3.10.3.tar.bz2</param>
+  </service>
+</services>
+

@@ -1,0 +1,13 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">https</param>
+    <param name="host">github.com</param>
+    <param name="path">SAOImageDS9/SAOImageDS9/archive/v7.6.tar.gz</param>
+  </service>  
+  <service name="download_url">
+    <param name="protocol">https</param>
+    <param name="host">www.openssl.org</param>
+    <param name="path">source/openssl-1.0.2o.tar.gz</param>
+  </service>
+</services>
+

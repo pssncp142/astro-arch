@@ -1,0 +1,8 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">http</param>
+    <param name="host">cdsarc.u-strasbg.fr</param>
+    <param name="path">ftp/pub/sw/cdsclient.tar.gz</param>
+  </service>
+</services>
+

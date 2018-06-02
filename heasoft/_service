@@ -1,0 +1,8 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">http</param>
+    <param name="host">heasarc.gsfc.nasa.gov</param>
+    <param name="path">FTP/software/lheasoft/release/heasoft-6.24src_no_xspec_modeldata.tar.gz</param>
+  </service>
+</services>
+
