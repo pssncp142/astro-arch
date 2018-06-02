@@ -1,0 +1,8 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">ftp</param>
+    <param name="host">ftp.astro.caltech.edu</param>
+    <param name="path">pub/pgplot/pgplot522.tar.gz</param>
+  </service>
+</services>
+

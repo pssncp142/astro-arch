@@ -1,0 +1,8 @@
+<services>
+  <service name="download_url">
+    <param name="protocol">ftp</param>
+    <param name="host">space.mit.edu</param>
+    <param name="path">pub/cxc/ISIS/isis-1.6.2-41.tar.gz</param>
+  </service>
+</services>
+
