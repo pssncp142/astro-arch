@@ -2,7 +2,7 @@
 
 pkgname=psfex
 pkgver=3.17.1
-pkgrel=1
+pkgrel=2
 pkgdesc="extracts models of the PSF from FITS images processed with sextractor"
 url="http://www.astromatic.net/software/psfex"
 arch=('x86_64')
