@@ -2,13 +2,12 @@
 
 An Arch linux repo containing a compilation of astronomy software. 
 
-I am still investigating ins and outs of OBS service so it is not ready. Suggestions are welcome.
+Suggestions and software requests are welcome. These software is also provided in AUR - either by me or others,
 
 To add the repo, add the following to your /etc/pacman.conf:
 
 ```
 [home_ydallilar_astro-arch_Arch]
-SigLevel = PackageOptional
 Server = https://download.opensuse.org/repositories/home:/ydallilar:/astro-arch/Arch/$arch
 ```
 
